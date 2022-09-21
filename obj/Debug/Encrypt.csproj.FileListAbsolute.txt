@@ -1,0 +1,11 @@
+C:\Users\Adrià\Desktop\Pia Santa Anna\Programació\C#\Encrypt\bin\Debug\Encrypt.exe.config
+C:\Users\Adrià\Desktop\Pia Santa Anna\Programació\C#\Encrypt\bin\Debug\Encrypt.exe
+C:\Users\Adrià\Desktop\Pia Santa Anna\Programació\C#\Encrypt\bin\Debug\Encrypt.pdb
+C:\Users\Adrià\Desktop\Pia Santa Anna\Programació\C#\Encrypt\obj\Debug\Encrypt.csproj.AssemblyReference.cache
+C:\Users\Adrià\Desktop\Pia Santa Anna\Programació\C#\Encrypt\obj\Debug\Encrypt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adrià\Desktop\Pia Santa Anna\Programació\C#\Encrypt\obj\Debug\Encrypt.Form1.resources
+C:\Users\Adrià\Desktop\Pia Santa Anna\Programació\C#\Encrypt\obj\Debug\Encrypt.Properties.Resources.resources
+C:\Users\Adrià\Desktop\Pia Santa Anna\Programació\C#\Encrypt\obj\Debug\Encrypt.csproj.GenerateResource.cache
+C:\Users\Adrià\Desktop\Pia Santa Anna\Programació\C#\Encrypt\obj\Debug\Encrypt.csproj.CoreCompileInputs.cache
+C:\Users\Adrià\Desktop\Pia Santa Anna\Programació\C#\Encrypt\obj\Debug\Encrypt.exe
+C:\Users\Adrià\Desktop\Pia Santa Anna\Programació\C#\Encrypt\obj\Debug\Encrypt.pdb
